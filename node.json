@@ -13,7 +13,7 @@
             [0, "Instantly"],
             [0.2, "Short"],
             [0.4, "Medium (default)"],
-            [0.8, "Long"]
+            [0.8, "Long"],
 	    [1.6, "Very Long"]
         ],
         "default": 0.0
